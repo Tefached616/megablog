@@ -11,3 +11,17 @@ body{
     border: 2px solid #FFFFFF;
     margin: 0 auto;
 }
+
+#cabecera {
+    background-color: #8593ac;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+}
+
+#cabecera #tagline {
+    padding: 0 0 0 1em;
+    font-size: 0.8em;
+    font-weight: normal;
+}
