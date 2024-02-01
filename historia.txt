@@ -12,4 +12,6 @@ Veamos como me va en windows...
 
 main 1
 
+main 2
+
 Me fue mejor en Windows! Funcionó a la primera. Necesito urgente aprender sobre Ubuntu
