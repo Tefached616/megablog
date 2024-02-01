@@ -10,4 +10,6 @@ Ok, intentaré contarla. Erase yo una vez intentando clonar en un ordenador Ubun
 
 Veamos como me va en windows...
 
+main 1
+
 Me fue mejor en Windows! Funcionó a la primera. Necesito urgente aprender sobre Ubuntu
