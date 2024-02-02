@@ -12,4 +12,4 @@ Blog creado para el curso de Git y Github de Platzi
 
 **RECORDATORIO**
 
-Este README.md no debe tomarse literal. Es una prueba para futuros proyectos que si serán reales. De nuevo, esto es solo de prueba, pero si te recomiendo un [**temazo.**](https://www.youtube.com/watch?v=gpgw5upGLG0)
+Este README.md no debe tomarse literal. Es una prueba para futuros proyectos que si serán reales. De nuevo, esto es solo de prueba, pero si te recomiendo un [**temazo.**](https://www.youtube.com/watch?v=gpgw5upGLG0&t=6s)
