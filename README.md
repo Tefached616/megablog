@@ -9,6 +9,7 @@ Blog creado para el curso de Git y Github de Platzi
 * Las buenas practicas
 * A que no conozco todo mi potencial (aun)
 * Me canso muy rapido
+* Fue hecho con cariño
 
 **RECORDATORIO**
 
