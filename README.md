@@ -10,6 +10,11 @@ Blog creado para el curso de Git y Github de Platzi
 * A que no conozco todo mi potencial (aun)
 * Me canso muy rapido
 * Fue hecho con cariño
+<<<<<<< HEAD
+=======
+* Incluye ejemplos principalmente realizados en Windows
+* Disponible si pagas la suscripción
+>>>>>>> readme-mejorado
 
 **RECORDATORIO**
 
